@@ -5,6 +5,7 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
@@ -153,10 +154,11 @@ function App() {
           <Typography variant="h5">
             Business Cards Manager
           </Typography>
+        <a classname="AppBar__GithubIcon" href="https://github.com/proRamLOGO/business-cards-manager"><GitHubIcon style={{ color: '#fff'}}/></a>
         </Toolbar>
       </AppBar >
 
-      <div  >
+      <div>
         <NewCard userCards={userCards} setUserCards={setUserCards}/>
         <hr style={{marginTop: '50px'}} />
         <YourCards userCards={userCards} />

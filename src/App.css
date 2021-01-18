@@ -33,8 +33,11 @@
 
 .AppBar {
   width: 100%;
-  display: flex; 
-  justify-content: space-around
+  /* display: flex; 
+  justify-content: space-around; */
+  left: 0;
+  right: 0;
+  position: fixed;
 }
 
 .AppBar__Buttons {
@@ -74,6 +77,14 @@
 
 .NewCard__form > * {
   padding: 50;
+}
+
+.AppBar__GithubIcon {  
+  text-decoration: 'none';
+  color: '#fff';
+  position:absolute;
+  right: 0;
+  /* margin-right: '0'; */
 }
 
 .yourCards__Card {
