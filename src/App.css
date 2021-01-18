@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+/* -------------------------------------------------------- */
+
+.AppBar {
+  width: 100%;
+  display: flex; 
+  justify-content: space-around
+}
+
+.AppBar__Buttons {
+  /* position: fixed;
+  align-self: right; */
+  display: flex; 
+  justify-content: flex-end;
+}
+
+.yourCards {
+
+  margin-top: 50px;
+
+}
+
+.yourCards__list {
+
+  text-align: center;
+
+}
+
+.NewCard__form {
+  /* display: flex !important; */
+  flex-direction: column !important;
+  /* width: 50%; */
+  /* justify-content: center; */
+  /* flex-wrap: wrap; */
+}
+
+.newCard {
+  margin-top: 30px;
+}
+
+.newCard Typography {
+  padding-bottom: 20px;
+}
+
+.NewCard__form > * {
+  padding: 50;
+}
+
+.yourCards__Card {
+  float: left;
+  align-items: left;
+  margin: 30px;
+  max-width: 345px !important;
+  max-height: 600px !important;
+}
+
+.yourCards__Card--CardMedia {
+  height: 140px !important;
+}
