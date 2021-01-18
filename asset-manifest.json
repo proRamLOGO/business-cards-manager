@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/business-cards-manager/static/css/main.c047886d.chunk.css",
-    "main.js": "/business-cards-manager/static/js/main.81d62a54.chunk.js",
-    "main.js.map": "/business-cards-manager/static/js/main.81d62a54.chunk.js.map",
-    "runtime-main.js": "/business-cards-manager/static/js/runtime-main.d72825c1.js",
-    "runtime-main.js.map": "/business-cards-manager/static/js/runtime-main.d72825c1.js.map",
-    "static/js/2.e890ee6e.chunk.js": "/business-cards-manager/static/js/2.e890ee6e.chunk.js",
-    "static/js/2.e890ee6e.chunk.js.map": "/business-cards-manager/static/js/2.e890ee6e.chunk.js.map",
-    "static/js/3.de24c98b.chunk.js": "/business-cards-manager/static/js/3.de24c98b.chunk.js",
-    "static/js/3.de24c98b.chunk.js.map": "/business-cards-manager/static/js/3.de24c98b.chunk.js.map",
+    "main.css": "/business-cards-manager/static/css/main.b8f13faa.chunk.css",
+    "main.js": "/business-cards-manager/static/js/main.38020bd9.chunk.js",
+    "main.js.map": "/business-cards-manager/static/js/main.38020bd9.chunk.js.map",
+    "runtime-main.js": "/business-cards-manager/static/js/runtime-main.4686185a.js",
+    "runtime-main.js.map": "/business-cards-manager/static/js/runtime-main.4686185a.js.map",
+    "static/js/2.d2728161.chunk.js": "/business-cards-manager/static/js/2.d2728161.chunk.js",
+    "static/js/2.d2728161.chunk.js.map": "/business-cards-manager/static/js/2.d2728161.chunk.js.map",
+    "static/js/3.d2946b09.chunk.js": "/business-cards-manager/static/js/3.d2946b09.chunk.js",
+    "static/js/3.d2946b09.chunk.js.map": "/business-cards-manager/static/js/3.d2946b09.chunk.js.map",
     "index.html": "/business-cards-manager/index.html",
-    "static/css/main.c047886d.chunk.css.map": "/business-cards-manager/static/css/main.c047886d.chunk.css.map",
-    "static/js/2.e890ee6e.chunk.js.LICENSE.txt": "/business-cards-manager/static/js/2.e890ee6e.chunk.js.LICENSE.txt"
+    "static/css/main.b8f13faa.chunk.css.map": "/business-cards-manager/static/css/main.b8f13faa.chunk.css.map",
+    "static/js/2.d2728161.chunk.js.LICENSE.txt": "/business-cards-manager/static/js/2.d2728161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d72825c1.js",
-    "static/js/2.e890ee6e.chunk.js",
-    "static/css/main.c047886d.chunk.css",
-    "static/js/main.81d62a54.chunk.js"
+    "static/js/runtime-main.4686185a.js",
+    "static/js/2.d2728161.chunk.js",
+    "static/css/main.b8f13faa.chunk.css",
+    "static/js/main.38020bd9.chunk.js"
   ]
 }
